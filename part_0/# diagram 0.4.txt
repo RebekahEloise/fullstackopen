@@ -1,0 +1,67 @@
+# diagram 0.4
+
+browser to server post a new note
+
+Request URL:https://studies.cs.helsinki.fi/exampleapp/new_note
+
+Request Method: POST
+
+Status Code:302 Found
+
+Remote Address:
+
+Referrer Policy:strict-origin-when-cross-origin
+
+N**ote:** Hey Zapata, Texas here!
+
+browser to server get notes HTML file
+
+Request URL:
+https://studies.cs.helsinki.fi/exampleapp/notes
+Request Method:
+GET
+Status Code:
+200 OK
+Remote Address:
+
+Referrer Policy:
+strict-origin-when-cross-origin
+
+browser to server get CSS stylesheet
+
+Request URL:
+https://studies.cs.helsinki.fi/exampleapp/main.css
+Request Method:
+GET
+Status Code:
+200 OK
+Remote Address:
+
+Referrer Policy:
+strict-origin-when-cross-origin
+
+browser to server get javascript file
+
+Request URL:
+https://studies.cs.helsinki.fi/exampleapp/main.js
+Request Method:
+GET
+Status Code:
+200 OK
+Remote Address:
+
+Referrer Policy:
+strict-origin-when-cross-origin
+
+browser to server get JSON data
+
+Request URL:
+https://studies.cs.helsinki.fi/exampleapp/data.json
+Request Method:
+GET
+Status Code:
+200 OK
+Remote Address:
+
+Referrer Policy:
+strict-origin-when-cross-origin

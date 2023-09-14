@@ -1,0 +1,22 @@
+# diagram 0.6
+
+Single page application, one HTTP request
+
+browser POST new note
+
+Request URL:
+https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+Request Method:
+POST
+Status Code:
+201 Created
+Remote Address:
+
+Referrer Policy:
+strict-origin-when-cross-origin
+
+Payload: JSON object:
+
+1. {content: "SPA Zapata, Texas", date: "2023-09-14T00:32:14.953Z"}
+    1. content: "SPA Zapata, Texas"
+    2. date: "2023-09-14T00:32:14.953Z"

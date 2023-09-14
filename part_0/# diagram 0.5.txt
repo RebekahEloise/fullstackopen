@@ -1,0 +1,53 @@
+# diagram 0.5
+
+browser to server get application
+
+Request URL:
+https://studies.cs.helsinki.fi/exampleapp/spa
+Request Method:
+GET
+Status Code:
+200 OK
+Remote Address:
+
+Referrer Policy:
+strict-origin-when-cross-origin
+
+browser to server get CSS stylesheet
+
+Request URL:
+https://studies.cs.helsinki.fi/exampleapp/main.css
+Request Method:
+GET
+Status Code:
+200 OK
+Remote Address:
+
+Referrer Policy:
+strict-origin-when-cross-origin
+
+browser to server get javascript file
+
+Request URL:
+https://studies.cs.helsinki.fi/exampleapp/spa.js
+Request Method:
+GET
+Status Code:
+200 OK
+Remote Address:
+
+Referrer Policy:
+strict-origin-when-cross-origin
+
+browser to server get JSON data
+
+Request URL:
+https://studies.cs.helsinki.fi/exampleapp/data.json
+Request Method:
+GET
+Status Code:
+200 OK
+Remote Address:
+
+Referrer Policy:
+strict-origin-when-cross-origin
